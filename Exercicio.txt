@@ -1,0 +1,26 @@
+O JSP, acrônimo para Java Server Pages, é uma linguagem de script de código aberto 
+criada pela SUN que tem como principal objetivo a geração de conteúdo dinâmico para 
+páginas da Internet. Por ser uma linguagem gratuita o JSP requer um servidor Java como 
+Tomcat, GlassFish, JBoss para ser executado. 
+Ele permite combinar linguagem Java com HTML que por sua vez tem conteúdo estático, 
+o JSP trouxe a revolução de conteúdos dinâmicos e interativos.
+
+Angular este é um framework Javascript de código aberto, diferentemente do JSP que é uma 
+tecnologia da plataforma Java baseado em side-server script, também baseado em 
+construção de páginas web dinâmicas baseado em html.  
+Angular é baseada em TypeScript, que é uma linguagem de programação de alto nível desenvolvida pela 
+Microsoft, uma superset da linguagem JavaScript, inclui todos os recursos Javascript e 
+possui resursos adicionais como tipagem estática e recursos orientados a objetos. É 
+uma solução de Single Page Application (SPA), o que significa que a navegação ocorre 
+em uma única página, tornando a experiência do usuário mais rápida e suave. 
+Possibilita a criação de interfaces de usuário complexas e ricas, com atualizações 
+dinâmicas sem recarregar a página inteira, especialmente útil para aplicações modernas 
+e interativas, como redes sociais, e-commerces e ferramentas de produtividade.
+
+Comparações
+JSP é do lado do servidor, usa Java como linguagem, é mais direto para lógica do lado do servidor.
+
+Angular é do lado do cliente no navegador, usa TypeScript/JavaScript como linguagem, é mais adequado para interfaces de usuário complexas e interativas.
+
+Ambas as tecnologias possuem suas vantagens e desvantagens, oferecendo 
+abordagens diferentes para o desenvolvimento de aplicações web.
