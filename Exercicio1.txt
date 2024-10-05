@@ -1,0 +1,12 @@
+Programação Procedural:
+A programação procedural é uma abordagem mais tradicional, onde o código é organizado em procedimentos (ou funções) que são executados sequencialmente. Cada procedimento é uma sequência de instruções que manipulam os dados de entrada e produzem um resultado específico. Os dados são mantidos em variáveis e passados entre as funções conforme necessário.
+
+Nessa abordagem, o foco principal está nas ações a serem realizadas e como realizá-las. Os procedimentos geralmente operam em dados globais ou passados como parâmetros, o que pode levar a problemas de segurança e complexidade em projetos maiores.
+
+Programação Orientada a Objetos (POO):
+A programação orientada a objetos é uma abordagem mais moderna e organizada. Nela, o código é estruturado em torno de objetos, que são instâncias de classes. Cada classe representa um conceito ou entidade específica e define seus atributos (dados) e métodos (ações) relacionados.
+
+Os objetos podem interagir entre si, trocando mensagens e colaborando para realizar tarefas complexas. Essa interação é possível graças aos princípios da encapsulação, herança e polimorfismo.
+
+Conclusão:
+A programação procedural é mais adequada para projetos menores e simples, enquanto a programação orientada a objetos é preferível para projetos maiores e mais complexos, onde a organização, reutilização e extensibilidade do código são fundamentais. É importante lembrar que ambas as abordagens têm suas vantagens e desvantagens, e a escolha entre elas dependerá das necessidades específicas do projeto e das preferências do desenvolvedor.
