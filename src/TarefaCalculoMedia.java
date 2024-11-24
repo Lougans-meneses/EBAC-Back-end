@@ -1,4 +1,4 @@
-public class App {
+public class TarefaCalculoMedia {
     public static void main(String[] args) throws Exception {
         int nota1 = 5;
         int nota2 = 8;
